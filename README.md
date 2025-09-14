@@ -1,8 +1,7 @@
 
 # Numerical Methods Project — Euler vs RK4 (Logistic Growth & Harmonic Oscillator)
 
-**Author:** You (B.Sc. (Honours) Math & Stats, McMaster)  
-**Program Target:** York University — MA in Mathematics & Statistics
+**Author:** Harleen Dhatt (B.Sc. (Honours) Math & Stats, McMaster)  
 
 ## Objectives
 1. Implement **Euler** and **Runge–Kutta 4 (RK4)** methods for ODEs.

@@ -12,7 +12,7 @@
 - **Logistic Growth**: \( y' = r y (1 - y/K) \), closed-form exact solution used for error analysis.
 - **Simple Harmonic Oscillator**: \( y'' + \omega^2 y = 0 \), converted to a first-order system with exact solution.
 
-## Highlights (Admissions-Ready)
+## Highlights
 - Built from scratch **Euler** and **RK4** solvers; verified **first-order** (slope ~1) and **fourth-order** (slope ~4) convergence rates on log–log error plots.
 - Provided rigorous comparison to exact solutions and included diagnostics (phase portrait for SHO).
 - Reproducible code with clear plots and CSV error tables.
